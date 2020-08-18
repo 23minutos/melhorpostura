@@ -11,7 +11,7 @@
 <script type="application/ld+json">{
 				"@context": "https://schema.org",
 				"@type": "WebSite",
-				"url" : "https:\/\/posturaemdia.com",
+				"url" : "https:\/\/corretormelhorpostura.com.br",
 				"potentialAction": {
 					"@type": "SearchAction",
 					"target": "https:\/\/posturaemdia.com\/?s={search_term_string}",
