@@ -1,0 +1,1609 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+		<title>Corretor Postural</title>
+<link rel='dns-prefetch' href='//corretapostura.com.br' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Corretor Postural &raquo;" href="https://corretapostura.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Corretor Postural &raquo;" href="https://corretapostura.com.br/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/corretapostura.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://corretapostura.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.5' media='all' />
+<link rel='stylesheet' id='hurrytimer-css'  href='https://corretapostura.com.br/wp-content/plugins/hurrytimer/assets/css/hurrytimer.css?ver=1597421984' media='all' />
+<link rel='stylesheet' id='twentytwenty-style-css'  href='https://corretapostura.com.br/wp-content/themes/twentytwenty/style.css?ver=1.5' media='all' />
+<style id='twentytwenty-style-inline-css'>
+.color-accent,.color-accent-hover:hover,.color-accent-hover:focus,:root .has-accent-color,.has-drop-cap:not(:focus):first-letter,.wp-block-button.is-style-outline,a { color: #cd2653; }blockquote,.border-color-accent,.border-color-accent-hover:hover,.border-color-accent-hover:focus { border-color: #cd2653; }button,.button,.faux-button,.wp-block-button__link,.wp-block-file .wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.bg-accent,.bg-accent-hover:hover,.bg-accent-hover:focus,:root .has-accent-background-color,.comment-reply-link { background-color: #cd2653; }.fill-children-accent,.fill-children-accent * { fill: #cd2653; }body,.entry-title a,:root .has-primary-color { color: #000000; }:root .has-primary-background-color { background-color: #000000; }cite,figcaption,.wp-caption-text,.post-meta,.entry-content .wp-block-archives li,.entry-content .wp-block-categories li,.entry-content .wp-block-latest-posts li,.wp-block-latest-comments__comment-date,.wp-block-latest-posts__post-date,.wp-block-embed figcaption,.wp-block-image figcaption,.wp-block-pullquote cite,.comment-metadata,.comment-respond .comment-notes,.comment-respond .logged-in-as,.pagination .dots,.entry-content hr:not(.has-background),hr.styled-separator,:root .has-secondary-color { color: #6d6d6d; }:root .has-secondary-background-color { background-color: #6d6d6d; }pre,fieldset,input,textarea,table,table *,hr { border-color: #dcd7ca; }caption,code,code,kbd,samp,.wp-block-table.is-style-stripes tbody tr:nth-child(odd),:root .has-subtle-background-background-color { background-color: #dcd7ca; }.wp-block-table.is-style-stripes { border-bottom-color: #dcd7ca; }.wp-block-latest-posts.is-grid li { border-top-color: #dcd7ca; }:root .has-subtle-background-color { color: #dcd7ca; }body:not(.overlay-header) .primary-menu > li > a,body:not(.overlay-header) .primary-menu > li > .icon,.modal-menu a,.footer-menu a, .footer-widgets a,#site-footer .wp-block-button.is-style-outline,.wp-block-pullquote:before,.singular:not(.overlay-header) .entry-header a,.archive-header a,.header-footer-group .color-accent,.header-footer-group .color-accent-hover:hover { color: #cd2653; }.social-icons a,#site-footer button:not(.toggle),#site-footer .button,#site-footer .faux-button,#site-footer .wp-block-button__link,#site-footer .wp-block-file__button,#site-footer input[type="button"],#site-footer input[type="reset"],#site-footer input[type="submit"] { background-color: #cd2653; }.header-footer-group,body:not(.overlay-header) #site-header .toggle,.menu-modal .toggle { color: #000000; }body:not(.overlay-header) .primary-menu ul { background-color: #000000; }body:not(.overlay-header) .primary-menu > li > ul:after { border-bottom-color: #000000; }body:not(.overlay-header) .primary-menu ul ul:after { border-left-color: #000000; }.site-description,body:not(.overlay-header) .toggle-inner .toggle-text,.widget .post-date,.widget .rss-date,.widget_archive li,.widget_categories li,.widget cite,.widget_pages li,.widget_meta li,.widget_nav_menu li,.powered-by-wordpress,.to-the-top,.singular .entry-header .post-meta,.singular:not(.overlay-header) .entry-header .post-meta a { color: #6d6d6d; }.header-footer-group pre,.header-footer-group fieldset,.header-footer-group input,.header-footer-group textarea,.header-footer-group table,.header-footer-group table *,.footer-nav-widgets-wrapper,#site-footer,.menu-modal nav *,.footer-widgets-outer-wrapper,.footer-top { border-color: #dcd7ca; }.header-footer-group table caption,body:not(.overlay-header) .header-inner .toggle-wrapper::before { background-color: #dcd7ca; }
+</style>
+<link rel='stylesheet' id='twentytwenty-print-style-css'  href='https://corretapostura.com.br/wp-content/themes/twentytwenty/print.css?ver=1.5' media='print' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://corretapostura.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://corretapostura.com.br/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://corretapostura.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.14' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://corretapostura.com.br/wp-content/uploads/elementor/css/global.css?ver=1597423648' media='all' />
+<link rel='stylesheet' id='elementor-post-55-css'  href='https://corretapostura.com.br/wp-content/uploads/elementor/css/post-55.css?ver=1597837708' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://corretapostura.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://corretapostura.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' media='all' />
+<script src='https://corretapostura.com.br/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-js'></script>
+<script src='https://corretapostura.com.br/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.5' id='twentytwenty-js-js' async></script>
+<link rel="https://api.w.org/" href="https://corretapostura.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://corretapostura.com.br/wp-json/wp/v2/pages/55" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://corretapostura.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://corretapostura.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5" />
+<link rel="canonical" href="https://corretapostura.com.br/" />
+<link rel='shortlink' href='https://corretapostura.com.br/' />
+<link rel="alternate" type="application/json+oembed" href="https://corretapostura.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcorretapostura.com.br%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://corretapostura.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcorretapostura.com.br%2F&#038;format=xml" />
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '940409039776563');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=940409039776563&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-175456404-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+
+		<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
+	<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="home page-template page-template-elementor_canvas page page-id-55 wp-embed-responsive singular enable-search-modal missing-post-thumbnail has-no-pagination not-showing-comments show-avatars elementor_canvas footer-top-visible elementor-default elementor-template-canvas elementor-kit-42 elementor-page elementor-page-55">
+
+
+	<a class="skip-link screen-reader-text" href="#site-content">Pular para o conteúdo</a>		<div data-elementor-type="wp-page" data-elementor-id="55" class="elementor elementor-55" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-350ac4af elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="350ac4af" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4f8777a elementor-column elementor-col-100 elementor-top-column" data-id="4f8777a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1c086d4b elementor-widget elementor-widget-image" data-id="1c086d4b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="344" height="47" src="https://corretapostura.com.br/wp-content/uploads/2020/08/logo-melhor-postura.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/logo-melhor-postura.png 344w, https://corretapostura.com.br/wp-content/uploads/2020/08/logo-melhor-postura-300x41.png 300w" sizes="(max-width: 344px) 100vw, 344px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6c0c9d25 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6c0c9d25" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4e8f1017 elementor-column elementor-col-100 elementor-top-column" data-id="4e8f1017" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2e10db04 elementor-widget elementor-widget-heading" data-id="2e10db04" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><span style="background:#fd5900;color:#ffffff;">acabe com as dores</span> nas costas, pescoço e lombar</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7323edf2 elementor-widget elementor-widget-heading" data-id="7323edf2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">alívio rápido com o poder do realinhamento vertebral </h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-28414853 elementor-widget elementor-widget-html" data-id="28414853" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-element elementor-element-232c8d6 elementor-star-rating-mobile--align-center elementor-star-rating--align-center elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="232c8d6" data-element_type="widget" data-widget_type="star-rating.default">    
+    <div class="elementor-widget-container">       
+     <div class="elementor-star-rating__wrapper">
+    <div class="elementor-star-rating" title="4.8/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-8"></i> <span itemprop="ratingValue" class="elementor-screen-only">4.8/5</span></div>
+    <div style="text-align: center; font-weight: 700"class="elementor-star-rating__title"><span style="color: #333; margin-left: -5px;font-size: 85%; font-family: 'Open Sans'";1>4,9&nbsp;</div>
+      <div><span style="color: #999">&nbsp;•&nbsp;</span><span style="color: #999; font-size: 80%">67.629 avaliações</span></div>
+       </div>
+    </div>
+ </div>
+ <style>
+     .elementor-star-rating__title {
+    margin-right: 0px;
+    color: #333 !important;
+    margin-left: 10px;
+}
+ </style>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-3899d194 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3899d194" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-54d83ef0 elementor-column elementor-col-33 elementor-top-column" data-id="54d83ef0" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-495ab227 elementor-column elementor-col-33 elementor-top-column" data-id="495ab227" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7e8eb67a elementor-widget elementor-widget-html" data-id="7e8eb67a" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			 <div class="swiper-container gallery-top">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide"><img src="https://posturaemdia.com/wp-content/uploads/2020/08/melhor-postura-01.jpg"></div>
+      <div class="swiper-slide"><img src="https://posturaemdia.com/wp-content/uploads/2020/08/melhor-postura-02.jpg"></div>
+      <div class="swiper-slide"><img src="https://maxslimshape.com/wp-content/uploads/2020/07/foto-corretor-1.jpg"></div>
+    <div class="swiper-slide"><img src="https://maxslimshape.com/wp-content/uploads/2020/07/foto-corretor-5.jpg"></div>
+    <div class="swiper-slide"><img src="https://posturaemdia.com/wp-content/uploads/2020/08/melhor-postura-05.jpg"></div>
+    
+ 
+    </div>
+    <!-- Add Arrows -->
+   
+  </div>
+  <div class="swiper-container gallery-thumbs">
+    <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="https://posturaemdia.com/wp-content/uploads/2020/08/melhor-postura-01.jpg"></div>
+            <div class="swiper-slide"><img src="https://posturaemdia.com/wp-content/uploads/2020/08/melhor-postura-02.jpg"></div>
+            <div class="swiper-slide"><img src="https://maxslimshape.com/wp-content/uploads/2020/07/foto-corretor-1.jpg"></div>
+      <div class="swiper-slide"><img src="https://maxslimshape.com/wp-content/uploads/2020/07/foto-corretor-5.jpg"></div>
+      <div class="swiper-slide"><img src="https://posturaemdia.com/wp-content/uploads/2020/08/melhor-postura-05.jpg"></div>
+    
+   
+    </div>
+     <div class="swiper-button-next swiper-button-white"></div>
+    <div class="swiper-button-prev swiper-button-white"></div>
+  </div>
+  <br>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7a328e11 elementor-mobile-align-center elementor-align-center elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-button" data-id="7a328e11" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#preco" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Eu quero uma postura perfeita!</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-779231f4 elementor-widget elementor-widget-image" data-id="779231f4" data-element_type="widget" id="segundo-bloco" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="53" src="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png 871w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-300x28.png 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-768x71.png 768w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-41e51453 elementor-column elementor-col-33 elementor-top-column" data-id="41e51453" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-3911a3eb elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3911a3eb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4faea79f elementor-column elementor-col-100 elementor-top-column" data-id="4faea79f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-28a80dfb elementor-mobile-align-center elementor-align-center elementor-widget-mobile__width-inherit elementor-fixed elementor-hidden-desktop elementor-widget elementor-widget-button" data-id="28a80dfb" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;fixed&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#preco" class="elementor-button-link elementor-button elementor-size-xl" role="button" id="perseguidor">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Sim! eu Quero uma postura perfeita!</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-63c6350b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="63c6350b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5a17992d elementor-column elementor-col-100 elementor-top-column" data-id="5a17992d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6f0f82f9 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="6f0f82f9" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;bounce&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-arrow-down"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-56a0a24f elementor-widget elementor-widget-heading" data-id="56a0a24f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">conquiste uma postura perfeita</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f739403 elementor-widget elementor-widget-heading" data-id="f739403" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">ganhe mais confiança, respeito, beleza e livre-se das dores</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2c93d04d elementor-widget elementor-widget-image" data-id="2c93d04d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="267" height="550" src="https://corretapostura.com.br/wp-content/uploads/2020/08/gif-corretor-1.gif" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7e604e54 elementor-widget elementor-widget-text-editor" data-id="7e604e54" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>O corretor ortopédico <strong>Melhor Postura<span class="s1">® </span></strong>foi desenvolvido para realinhar a posição das costas, ombros e pescoço de forma simples e eficiente.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-40f0a462 elementor-mobile-align-left elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="40f0a462" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-chevron-circle-down"></i>						</span>
+										<span class="elementor-icon-list-text">Corrija a sua Postura e ganhe mais respeito e confiança.</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-chevron-circle-down"></i>						</span>
+										<span class="elementor-icon-list-text">Alinhe a Coluna e acabe com as dores nas costas, pescoço e lombar.</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-chevron-circle-down"></i>						</span>
+										<span class="elementor-icon-list-text">Melhore a Capacidade Respiratória e ganhe mais energia.</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-chevron-circle-down"></i>						</span>
+										<span class="elementor-icon-list-text">Mantenha a sua Coluna Protegida</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-48cd502e elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="48cd502e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#preco" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Eu quero uma postura perfeita!</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-49d29003 elementor-widget elementor-widget-image" data-id="49d29003" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="53" src="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png 871w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-300x28.png 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-768x71.png 768w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-626c1e1 elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="626c1e1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2abbb6cf elementor-column elementor-col-100 elementor-top-column" data-id="2abbb6cf" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-68dea62d elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="68dea62d" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;bounce&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-arrow-down"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1429dd0e elementor-widget elementor-widget-heading" data-id="1429dd0e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">SIMPLES, PRÁTICO E CONFORTÁVEL</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-45f0ae5 elementor-widget elementor-widget-image" data-id="45f0ae5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="582" src="https://corretapostura.com.br/wp-content/uploads/2020/08/sua-melhor-postura.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/sua-melhor-postura.jpg 953w, https://corretapostura.com.br/wp-content/uploads/2020/08/sua-melhor-postura-300x300.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/sua-melhor-postura-150x150.jpg 150w, https://corretapostura.com.br/wp-content/uploads/2020/08/sua-melhor-postura-768x771.jpg 768w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-102e1be4 elementor-widget elementor-widget-image" data-id="102e1be4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="480" height="270" src="https://corretapostura.com.br/wp-content/uploads/2020/08/ezgif.com-optimize.gif" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-21e8ec6 elementor-widget elementor-widget-image" data-id="21e8ec6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="319" height="304" src="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-2.gif" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-339fa33a elementor-widget elementor-widget-heading" data-id="339fa33a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">sua postura <span style="background-color:#fd5900; color: #fff;">perfeitamente alinhada</span></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-595763 elementor-widget elementor-widget-image" data-id="595763" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="541" height="439" src="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-homem.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-homem.jpg 541w, https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-homem-300x243.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-21b92c8d elementor-widget elementor-widget-image" data-id="21b92c8d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="541" height="439" src="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-mulher.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-mulher.jpg 541w, https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-mulher-300x243.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1a2631d6 elementor-widget elementor-widget-heading" data-id="1a2631d6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">corrija a sua postura</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-323c2027 elementor-widget elementor-widget-image" data-id="323c2027" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="497" src="https://corretapostura.com.br/wp-content/uploads/2020/08/fim-dores-coluna.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/fim-dores-coluna.jpg 679w, https://corretapostura.com.br/wp-content/uploads/2020/08/fim-dores-coluna-300x257.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-aa57f2d elementor-widget elementor-widget-heading" data-id="aa57f2d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Acabe com as Dores nas Costas, Ombros, Pescoço e Lombar</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-49627b8 elementor-widget elementor-widget-image" data-id="49627b8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="497" src="https://corretapostura.com.br/wp-content/uploads/2020/08/realinhar-coluna.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/realinhar-coluna.jpg 679w, https://corretapostura.com.br/wp-content/uploads/2020/08/realinhar-coluna-300x257.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7dc5c27e elementor-widget elementor-widget-heading" data-id="7dc5c27e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Alinhe sua Coluna</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3ef71370 elementor-widget elementor-widget-image" data-id="3ef71370" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="497" src="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-melhor.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-melhor.jpg 679w, https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-melhor-300x257.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1ac4d98f elementor-widget elementor-widget-heading" data-id="1ac4d98f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Ganhe mais Respeito e Confiança </h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1c1e4d81 elementor-widget elementor-widget-image" data-id="1c1e4d81" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="497" src="https://corretapostura.com.br/wp-content/uploads/2020/08/medicos-indicam-corretor.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/medicos-indicam-corretor.jpg 679w, https://corretapostura.com.br/wp-content/uploads/2020/08/medicos-indicam-corretor-300x257.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-674d13e7 elementor-widget elementor-widget-heading" data-id="674d13e7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Recomendado por Especialistas</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-23b42c38 elementor-widget elementor-widget-image" data-id="23b42c38" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="497" src="https://corretapostura.com.br/wp-content/uploads/2020/08/nova-tecnologia-corretor-coluna.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/nova-tecnologia-corretor-coluna.jpg 679w, https://corretapostura.com.br/wp-content/uploads/2020/08/nova-tecnologia-corretor-coluna-300x257.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-38547f6f elementor-widget elementor-widget-heading" data-id="38547f6f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Nova Tecnologia</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a4a2099 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="a4a2099" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#preco" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">EU QUERO UMA POSTURA PERFEITA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2e53d84d elementor-widget elementor-widget-image" data-id="2e53d84d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="53" src="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png 871w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-300x28.png 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-768x71.png 768w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5c192857 elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5c192857" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6d91c194 elementor-column elementor-col-100 elementor-top-column" data-id="6d91c194" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bada3e1 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="bada3e1" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;bounce&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-arrow-down"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-53e4ca6e elementor-widget elementor-widget-heading" data-id="53e4ca6e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Veja quem já está tendo resultados</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6601cfe7 elementor-widget elementor-widget-image" data-id="6601cfe7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="447" src="https://corretapostura.com.br/wp-content/uploads/2020/08/avaliacao-max-shaper-360-ok.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/avaliacao-max-shaper-360-ok.jpg 691w, https://corretapostura.com.br/wp-content/uploads/2020/08/avaliacao-max-shaper-360-ok-300x231.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5f60fc38 elementor-widget elementor-widget-image" data-id="5f60fc38" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="401" src="https://corretapostura.com.br/wp-content/uploads/2020/08/mockup-dep-facebook-2.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/mockup-dep-facebook-2.jpg 868w, https://corretapostura.com.br/wp-content/uploads/2020/08/mockup-dep-facebook-2-300x207.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/mockup-dep-facebook-2-768x531.jpg 768w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-57abf33f elementor-widget elementor-widget-image" data-id="57abf33f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="167" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-4-1024x294.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-4-1024x294.jpg 1024w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-4-300x86.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-4-768x221.jpg 768w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-4.jpg 1096w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-32329544 elementor-widget elementor-widget-image" data-id="32329544" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="167" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-3-1024x294.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-3-1024x294.jpg 1024w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-3-300x86.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-3-768x221.jpg 768w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-3.jpg 1096w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1aaefdda elementor-widget elementor-widget-image" data-id="1aaefdda" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="148" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-6-1024x261.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-6-1024x261.jpg 1024w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-6-300x76.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-6-768x196.jpg 768w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-6.jpg 1096w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-24ec9a33 elementor-widget elementor-widget-image" data-id="24ec9a33" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="167" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-02-1024x294.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-02-1024x294.jpg 1024w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-02-300x86.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-02-768x221.jpg 768w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-02.jpg 1096w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9195ccc elementor-widget elementor-widget-image" data-id="9195ccc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="136" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-5-1024x240.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-5-1024x240.jpg 1024w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-5-300x70.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-5-768x180.jpg 768w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-5.jpg 1096w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7cfb323e elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7cfb323e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2e8b07eb elementor-column elementor-col-100 elementor-top-column" data-id="2e8b07eb" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-36cab31d elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="36cab31d" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;bounce&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-arrow-down"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b3f0d76 elementor-widget elementor-widget-heading" data-id="b3f0d76" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">simples, prático e confortável</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-44602ec5 elementor-widget elementor-widget-image" data-id="44602ec5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="582" src="https://corretapostura.com.br/wp-content/uploads/2020/08/sua-melhor-postura.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/sua-melhor-postura.jpg 953w, https://corretapostura.com.br/wp-content/uploads/2020/08/sua-melhor-postura-300x300.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/sua-melhor-postura-150x150.jpg 150w, https://corretapostura.com.br/wp-content/uploads/2020/08/sua-melhor-postura-768x771.jpg 768w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-11c611a4 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="11c611a4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6a06f7ec elementor-column elementor-col-50 elementor-top-column" data-id="6a06f7ec" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-56aa7440 elementor-widget elementor-widget-image" data-id="56aa7440" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="319" height="304" src="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-2.gif" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-449fd111 elementor-column elementor-col-50 elementor-top-column" data-id="449fd111" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-60482bb1 elementor-widget elementor-widget-image" data-id="60482bb1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="480" height="270" src="https://corretapostura.com.br/wp-content/uploads/2020/08/ezgif.com-optimize-1.gif" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-38e69ff elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="38e69ff" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5fd3f99f elementor-column elementor-col-100 elementor-top-column" data-id="5fd3f99f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-125a852b elementor-widget elementor-widget-heading" data-id="125a852b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">sua postura <span style="background:#fd5900;color:#ffffff;">perfeitamente alinhada</span></h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6ff28730 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6ff28730" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-558e1c1d elementor-column elementor-col-50 elementor-top-column" data-id="558e1c1d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-75f883e3 elementor-widget elementor-widget-image" data-id="75f883e3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="541" height="439" src="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-homem-1.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-homem-1.jpg 541w, https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-homem-1-300x243.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-661be83 elementor-column elementor-col-50 elementor-top-column" data-id="661be83" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1b1134f9 elementor-widget elementor-widget-image" data-id="1b1134f9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="541" height="439" src="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-mulher-1.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-mulher-1.jpg 541w, https://corretapostura.com.br/wp-content/uploads/2020/08/corretor-postural-mulher-1-300x243.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5d03c019 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5d03c019" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6a8d488d elementor-column elementor-col-100 elementor-top-column" data-id="6a8d488d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6a0d38b1 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="6a0d38b1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#preco" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Sim, Eu Quero Corrigir minha postura!</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3e2701f4 elementor-widget elementor-widget-image" data-id="3e2701f4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="53" src="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png 871w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-300x28.png 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-768x71.png 768w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-dfd11ab elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="dfd11ab" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7e20590d elementor-column elementor-col-100 elementor-top-column" data-id="7e20590d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1b321483 elementor-widget elementor-widget-heading" data-id="1b321483" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Veja quem já está tendo resultados</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-e695ab8 elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="e695ab8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4bcd3bde elementor-column elementor-col-50 elementor-top-column" data-id="4bcd3bde" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-179a381b elementor-widget elementor-widget-image" data-id="179a381b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="167" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-4-1024x294.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-4-1024x294.jpg 1024w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-4-300x86.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-4-768x221.jpg 768w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-4.jpg 1096w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1466e115 elementor-widget elementor-widget-image" data-id="1466e115" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="148" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-6-1024x261.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-6-1024x261.jpg 1024w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-6-300x76.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-6-768x196.jpg 768w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-6.jpg 1096w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-144c4430 elementor-column elementor-col-50 elementor-top-column" data-id="144c4430" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-79385352 elementor-widget elementor-widget-image" data-id="79385352" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="167" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-3-1024x294.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-3-1024x294.jpg 1024w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-3-300x86.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-3-768x221.jpg 768w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-3.jpg 1096w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4d8adff8 elementor-widget elementor-widget-image" data-id="4d8adff8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="167" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-02-1024x294.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-02-1024x294.jpg 1024w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-02-300x86.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-02-768x221.jpg 768w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-face-02.jpg 1096w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-d6de4bf elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="d6de4bf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-59ec6514 elementor-column elementor-col-100 elementor-top-column" data-id="59ec6514" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-207ac712 elementor-widget elementor-widget-heading" data-id="207ac712" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><span style="background:#fd5900;color:#ffffff;">receba também:</span></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2e02ae7e elementor-widget elementor-widget-image" data-id="2e02ae7e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="504" height="682" src="https://corretapostura.com.br/wp-content/uploads/2020/08/guia-postura-perfeita.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/guia-postura-perfeita.png 504w, https://corretapostura.com.br/wp-content/uploads/2020/08/guia-postura-perfeita-222x300.png 222w" sizes="(max-width: 504px) 100vw, 504px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4046e2cf elementor-widget elementor-widget-heading" data-id="4046e2cf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Guia Definitivo da Postura Perfeita</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2384bc9b elementor-widget elementor-widget-text-editor" data-id="2384bc9b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Você vai receber por e-mail o acesso a Área de Alunos exclusiva do Melhor Postura, no Guia você irá encontrar exercícios e dicas simples para te ajudar a conquistar a postura correta.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5d3f8996 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5d3f8996" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-56a2e08 elementor-column elementor-col-100 elementor-top-column" data-id="56a2e08" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-203da643 elementor-widget elementor-widget-heading" data-id="203da643" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">compre agora e <span style="background:#fd5900;color:#ffffff;">ganhe 3 super presentes:</span></h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-168891d7 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="168891d7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5944065e elementor-column elementor-col-33 elementor-top-column" data-id="5944065e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7a4dba21 elementor-widget elementor-widget-image" data-id="7a4dba21" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="504" height="682" src="https://corretapostura.com.br/wp-content/uploads/2020/08/como-acabar-com-dores-nas-costas.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/como-acabar-com-dores-nas-costas.png 504w, https://corretapostura.com.br/wp-content/uploads/2020/08/como-acabar-com-dores-nas-costas-222x300.png 222w" sizes="(max-width: 504px) 100vw, 504px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6011238a elementor-widget elementor-widget-heading" data-id="6011238a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">9 Técnicas Infalíveis para Acabar com  as Dores nas Costas</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3b0e8cf3 elementor-widget elementor-widget-text-editor" data-id="3b0e8cf3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Com esse Guia você vai aprender técnicas para aliviar as dores nas costas, pescoço, ombros e braços.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-649ac1bc elementor-column elementor-col-33 elementor-top-column" data-id="649ac1bc" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6a5d0550 elementor-widget elementor-widget-image" data-id="6a5d0550" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="504" height="682" src="https://corretapostura.com.br/wp-content/uploads/2020/08/exercicios-para-eliminar-corcunda-pescoco.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/exercicios-para-eliminar-corcunda-pescoco.png 504w, https://corretapostura.com.br/wp-content/uploads/2020/08/exercicios-para-eliminar-corcunda-pescoco-222x300.png 222w" sizes="(max-width: 504px) 100vw, 504px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-37ce2a70 elementor-widget elementor-widget-heading" data-id="37ce2a70" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">3 Exercícios Rápidos para Acabar com a Corcunda no Pescoço</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ce17324 elementor-widget elementor-widget-text-editor" data-id="ce17324" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Nesse livro você vai conhecer 3 exercícios super rápidos para fazer em pouquíssimos minutos.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-d30c7a0 elementor-column elementor-col-33 elementor-top-column" data-id="d30c7a0" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2fef2cbf elementor-widget elementor-widget-image" data-id="2fef2cbf" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="503" height="682" src="https://corretapostura.com.br/wp-content/uploads/2020/08/como-corrigir-postura-facil.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/como-corrigir-postura-facil.png 503w, https://corretapostura.com.br/wp-content/uploads/2020/08/como-corrigir-postura-facil-221x300.png 221w" sizes="(max-width: 503px) 100vw, 503px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6699dafb elementor-widget elementor-widget-heading" data-id="6699dafb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Manias que Prejudicam sua Postura e Você Não Sabia</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7f67be4 elementor-widget elementor-widget-text-editor" data-id="7f67be4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Acabe de vez com hábitos que estão prejudicando a sua coluna!</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-72c62d7f elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="72c62d7f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-39476de0 elementor-column elementor-col-100 elementor-top-column" data-id="39476de0" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-454d3d49 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="454d3d49" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#preco" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Sim, Eu Quero Corrigir minha postura!</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1405a88b elementor-widget elementor-widget-image" data-id="1405a88b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="53" src="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png 871w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-300x28.png 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-768x71.png 768w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-62987aa9 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="62987aa9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-30555491 elementor-column elementor-col-100 elementor-top-column" data-id="30555491" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ebbc724 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="ebbc724" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;bounce&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-arrow-down"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2d4b8a5f elementor-widget elementor-widget-image" data-id="2d4b8a5f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="207" src="https://corretapostura.com.br/wp-content/uploads/2020/08/economia-max-shaper-360.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/economia-max-shaper-360.png 589w, https://corretapostura.com.br/wp-content/uploads/2020/08/economia-max-shaper-360-300x107.png 300w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-139ccf8a elementor-widget elementor-widget-text-editor" data-id="139ccf8a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>É fácil entender como o Max Shaper 360 é a melhor escolha para você.</p><p>Vamos fazer algumas contas rápidas:</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5bdfd192 elementor-widget elementor-widget-text-editor" data-id="5bdfd192" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ul>
+ 	<li>Mensalidade da Academia:  <span style="color: #fa4848;"><strike>R$136,72</strike></span></li>
+ 	<li>Taxa de adesão: <span style="color: #fa4848;"><strike>R$49,90</strike></span></li>
+ 	<li>Manutenção anual: <span style="color: #fa4848;"><strike>R$149,90</strike></span></li>
+</ul></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4d58b22e elementor-widget elementor-widget-text-editor" data-id="4d58b22e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>* Algumas academias ainda possuem um prazo de Fidelidade de 12 meses, ou seja, se você sair da academia antes desse prazo você pagará uma multa!</p><p>Para ser aluno da academia você pagará em média:</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7622d939 elementor-widget elementor-widget-text-editor" data-id="7622d939" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><span style="color: #fa4848;"><strike>R$153,37/mês</strike></span></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4cc040eb elementor-widget elementor-widget-text-editor" data-id="4cc040eb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Com o Max Shaper 360 você vai ter a sua academia em casa 24 horas.</p><p>SEM precisar sair de casa e SEM pagar mensalidade ou taxas!</p><p>Aproveite nossa promoção limitada e tenha sua academia em casa</p><p>Por apenas 12X de:</p><p><strong><span style="font-size: 50px; color: #61ce70;">R$39,86</span></strong></p><p>Você fará simplesmente uma <span style="color: #61ce70;">economia de R$1.443,44 por ano.</span></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-27108687 elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="27108687" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-304b6c3b elementor-column elementor-col-100 elementor-top-column" data-id="304b6c3b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-500a1a64 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="500a1a64" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;bounce&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-arrow-down"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1fcf5e35 elementor-widget elementor-widget-heading" data-id="1fcf5e35" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><span style="background:#fd5900;color:#ffffff;">RECEBA também:</span></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7f7b573 elementor-widget elementor-widget-image" data-id="7f7b573" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="504" height="682" src="https://corretapostura.com.br/wp-content/uploads/2020/08/guia-postura-perfeita.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/guia-postura-perfeita.png 504w, https://corretapostura.com.br/wp-content/uploads/2020/08/guia-postura-perfeita-222x300.png 222w" sizes="(max-width: 504px) 100vw, 504px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7d259f4c elementor-widget elementor-widget-heading" data-id="7d259f4c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Guia Definitivo da Postura Perfeita</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-353d493 elementor-widget elementor-widget-text-editor" data-id="353d493" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Você vai receber o acesso a Área de Clientes exclusiva do Melhor Postura. Lá você irá encontrar exercícios e dicas simples para te ajudar nunca mais perder a postura correta.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-184ab9e3 elementor-widget elementor-widget-heading" data-id="184ab9e3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">compre agora e <span style="background:#fd5900;color:#ffffff;">ganhe 3 super presentes</span>:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-226db8b4 elementor-widget elementor-widget-image" data-id="226db8b4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="504" height="682" src="https://corretapostura.com.br/wp-content/uploads/2020/08/como-acabar-com-dores-nas-costas.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/como-acabar-com-dores-nas-costas.png 504w, https://corretapostura.com.br/wp-content/uploads/2020/08/como-acabar-com-dores-nas-costas-222x300.png 222w" sizes="(max-width: 504px) 100vw, 504px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3ed7be75 elementor-widget elementor-widget-heading" data-id="3ed7be75" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">9 Técnicas Infalíveis para Aliviar as Dores nas Costas</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-135ee4b5 elementor-widget elementor-widget-text-editor" data-id="135ee4b5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Com esse Guia você vai aprender técnicas para aliviar as dores nas costas, pescoço, ombros e braços.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-34dce6e8 elementor-widget elementor-widget-image" data-id="34dce6e8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="504" height="682" src="https://corretapostura.com.br/wp-content/uploads/2020/08/exercicios-para-eliminar-corcunda-pescoco.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/exercicios-para-eliminar-corcunda-pescoco.png 504w, https://corretapostura.com.br/wp-content/uploads/2020/08/exercicios-para-eliminar-corcunda-pescoco-222x300.png 222w" sizes="(max-width: 504px) 100vw, 504px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4542a99b elementor-widget elementor-widget-heading" data-id="4542a99b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">3 Exercícios Rápidos para Acabar com a Corcunda no Pescoço</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3b9bb3df elementor-widget elementor-widget-text-editor" data-id="3b9bb3df" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Nesse ebook você vai conhecer 3 exercícios super rápidos para fazer em pouquíssimos minutos.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7c609a6b elementor-widget elementor-widget-image" data-id="7c609a6b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="503" height="682" src="https://corretapostura.com.br/wp-content/uploads/2020/08/como-corrigir-postura-facil.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/como-corrigir-postura-facil.png 503w, https://corretapostura.com.br/wp-content/uploads/2020/08/como-corrigir-postura-facil-221x300.png 221w" sizes="(max-width: 503px) 100vw, 503px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5712bde9 elementor-widget elementor-widget-heading" data-id="5712bde9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Manias que Prejudicam sua Postura e Você Não Sabia</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-61e8ae06 elementor-widget elementor-widget-text-editor" data-id="61e8ae06" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Acabe de vez com hábitos que estão prejudicando a sua coluna!</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3ce56bb2 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="3ce56bb2" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;swing&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#preco" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">EU QUERO UMA POSTURA PERFEITA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-69f7ac39 elementor-widget elementor-widget-image" data-id="69f7ac39" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="53" src="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura.png 871w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-300x28.png 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/compra-segura-768x71.png 768w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4757d6b0 elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4757d6b0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5f22c279 elementor-column elementor-col-100 elementor-top-column" data-id="5f22c279" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-786bdfd5 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="786bdfd5" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;bounce&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-arrow-down"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-65d5de45 elementor-widget elementor-widget-heading" data-id="65d5de45" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Veja quem já está aproveitando o melhor postura</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-24aea58c elementor-widget elementor-widget-image" data-id="24aea58c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="447" src="https://corretapostura.com.br/wp-content/uploads/2020/08/avaliacao-max-shaper-360-ok.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/avaliacao-max-shaper-360-ok.jpg 691w, https://corretapostura.com.br/wp-content/uploads/2020/08/avaliacao-max-shaper-360-ok-300x231.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-23ea5aae elementor-widget elementor-widget-image" data-id="23ea5aae" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="686" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-2.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-2.jpg 588w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-2-254x300.jpg 254w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5d78052e elementor-widget elementor-widget-image" data-id="5d78052e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="467" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-01.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-01.jpg 588w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-01-300x241.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3090a44b elementor-widget elementor-widget-image" data-id="3090a44b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="574" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-3.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-3.jpg 588w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-3-300x297.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5fd08da5 elementor-widget elementor-widget-image" data-id="5fd08da5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="576" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-4.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-4.jpg 588w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-4-300x298.jpg 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-4-150x150.jpg 150w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-59e15293 elementor-widget elementor-widget-image" data-id="59e15293" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="565" src="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-5.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-5.jpg 588w, https://corretapostura.com.br/wp-content/uploads/2020/08/dep-w-5-300x292.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-29aca669 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="29aca669" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-59898221 elementor-column elementor-col-100 elementor-top-column" data-id="59898221" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4c8463ab elementor-widget elementor-widget-menu-anchor" data-id="4c8463ab" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div id="preco" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6d783098 elementor-widget elementor-widget-heading" data-id="6d783098" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">APROVEITE, <span style="background:#CE1B21;color:#ffffff;">ÚLTIMAS UNIDADES com frete grátis</SPAN></h3>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-187b0d8e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="187b0d8e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5bf7c71b elementor-column elementor-col-33 elementor-top-column" data-id="5bf7c71b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1a0c51b1 elementor-mobile-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="1a0c51b1" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;slideInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-clock"></i>						</span>
+										<span class="elementor-icon-list-text">Restam só 27 unidades do Plano Básico</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-17a8a0f6 elementor-widget elementor-widget-html" data-id="17a8a0f6" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<a class="kitUm"><img src="https://posturaemdia.com/wp-content/uploads/2020/07/plano-01-melhor-postura.png"/></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-365624d3 elementor-hidden-desktop elementor-widget elementor-widget-image" data-id="365624d3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="145" height="56" src="https://corretapostura.com.br/wp-content/uploads/2020/08/frete-ok-1-1-1.png" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-21cd513 elementor-mobile-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="21cd513" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;slideInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-clock"></i>						</span>
+										<span class="elementor-icon-list-text">Restam só 13 unidades do Plano Casal</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-250021a elementor-column elementor-col-33 elementor-top-column" data-id="250021a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6c8a76a3 elementor-widget elementor-widget-html" data-id="6c8a76a3" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<a class="kitDois"><img class="" src="https://posturaemdia.com/wp-content/uploads/2020/07/kit-02-melhor-postura.png" alt=""/></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2f6b9b7c elementor-hidden-desktop elementor-widget elementor-widget-image" data-id="2f6b9b7c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="145" height="56" src="https://corretapostura.com.br/wp-content/uploads/2020/08/frete-ok-1-1-1.png" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ce6be4e elementor-mobile-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="ce6be4e" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;slideInUp&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-clock"></i>						</span>
+										<span class="elementor-icon-list-text">Restam só 8 unidades do Plano Família</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-7d53fbaf elementor-column elementor-col-33 elementor-top-column" data-id="7d53fbaf" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-33b5aff1 elementor-widget elementor-widget-html" data-id="33b5aff1" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<a class="kitTres"><img src="https://posturaemdia.com/wp-content/uploads/2020/07/kit-03-melhor-postura.png"/></a>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7055316b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7055316b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2bfe1786 elementor-column elementor-col-100 elementor-top-column" data-id="2bfe1786" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-55585012 elementor-widget elementor-widget-image" data-id="55585012" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="145" height="56" src="https://corretapostura.com.br/wp-content/uploads/2020/08/frete-ok-1-1-1.png" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7675ef59 elementor-widget elementor-widget-text-editor" data-id="7675ef59" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;"><span style="color: #ff0000;"><strong>*Essa Oferta Especial vai Acabar em:</strong></span></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-793f9a89 elementor-widget elementor-widget-shortcode" data-id="793f9a89" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><div class="hurrytimer-cdt hurrytimer-cdt--4 hurrytimer-campaign hurryt-loading hurrytimer-campaign-4" data-config="{&quot;id&quot;:4,&quot;actions&quot;:[{&quot;id&quot;:1,&quot;redirectUrl&quot;:&quot;&quot;,&quot;message&quot;:&quot;&quot;,&quot;wcStockStatus&quot;:&quot;instock&quot;}],&quot;template&quot;:&quot;&lt;div class=\&quot;hurrytimer-timer-block hurrytimer-cdt__dur\&quot;&gt;&lt;div class=\&quot;hurrytimer-timer-digit hurrytimer-cdt__time\&quot;&gt;%H&lt;\/div&gt;&lt;div class=\&quot;hurrytimer-timer-label hurrytimer-cdt__label\&quot; &gt;horas&lt;\/div&gt;&lt;\/div&gt;&lt;div class=\&quot;hurrytimer-cdt__sep hurrytimer-timer-sep\&quot;&gt;:&lt;\/div&gt;&lt;div class=\&quot;hurrytimer-timer-block hurrytimer-cdt__dur\&quot;&gt;&lt;div class=\&quot;hurrytimer-timer-digit hurrytimer-cdt__time\&quot;&gt;%M&lt;\/div&gt;&lt;div class=\&quot;hurrytimer-timer-label hurrytimer-cdt__label\&quot; &gt;minutos&lt;\/div&gt;&lt;\/div&gt;&lt;div class=\&quot;hurrytimer-cdt__sep hurrytimer-timer-sep\&quot;&gt;:&lt;\/div&gt;&lt;div class=\&quot;hurrytimer-timer-block hurrytimer-cdt__dur\&quot;&gt;&lt;div class=\&quot;hurrytimer-timer-digit hurrytimer-cdt__time\&quot;&gt;%S&lt;\/div&gt;&lt;div class=\&quot;hurrytimer-timer-label hurrytimer-cdt__label\&quot; &gt;segundos&lt;\/div&gt;&lt;\/div&gt;&quot;,&quot;mode&quot;:&quot;evergreen&quot;,&quot;isRegular&quot;:false,&quot;duration&quot;:6000,&quot;reset&quot;:false,&quot;restart&quot;:&quot;3&quot;,&quot;endDate&quot;:&quot;1597860431779&quot;,&quot;cookieName&quot;:&quot;_ht_CDT-4&quot;}" ><div class="hurrytimer-cdt__inner hurrytimer-timer"></div></div></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-53f762fd elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="53f762fd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-42e6ec80 elementor-column elementor-col-100 elementor-top-column" data-id="42e6ec80" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1248ba87 elementor-widget elementor-widget-heading" data-id="1248ba87" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">risco zero e satisfação garantida!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-705c6a84 elementor-widget elementor-widget-image" data-id="705c6a84" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="410" height="410" src="https://corretapostura.com.br/wp-content/uploads/2020/08/garantia-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/garantia-1.png 410w, https://corretapostura.com.br/wp-content/uploads/2020/08/garantia-1-300x300.png 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/garantia-1-150x150.png 150w" sizes="(max-width: 410px) 100vw, 410px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3153fb62 elementor-widget elementor-widget-text-editor" data-id="3153fb62" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Se por qualquer motivo, você não gostar do Melhor Postura, dentro do prazo de 7 dias após receber ele na sua casa, nós devolveremos para você cada centavo pago pelo produto.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4bb277c6 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4bb277c6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6d0c6cb3 elementor-column elementor-col-50 elementor-top-column" data-id="6d0c6cb3" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-21d9bd90 elementor-widget elementor-widget-image" data-id="21d9bd90" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="410" height="410" src="https://corretapostura.com.br/wp-content/uploads/2020/08/garantia-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/garantia-1.png 410w, https://corretapostura.com.br/wp-content/uploads/2020/08/garantia-1-300x300.png 300w, https://corretapostura.com.br/wp-content/uploads/2020/08/garantia-1-150x150.png 150w" sizes="(max-width: 410px) 100vw, 410px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-1eda4b4b elementor-column elementor-col-50 elementor-top-column" data-id="1eda4b4b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-39f7c719 elementor-widget elementor-widget-heading" data-id="39f7c719" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">risco zero e satisfação garantida!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2a5c5630 elementor-widget elementor-widget-text-editor" data-id="2a5c5630" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Se por qualquer motivo, você não gostar do Melhor Postura, dentro do prazo de 7 dias após receber ele na sua casa, nós devolveremos para você cada centavo pago pelo produto.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-56693b21 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="56693b21" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-443b7f0b elementor-column elementor-col-100 elementor-top-column" data-id="443b7f0b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6a7c87fb elementor-widget elementor-widget-heading" data-id="6a7c87fb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">perguntas frequentes</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2a3a46f elementor-widget elementor-widget-toggle" data-id="2a3a46f" data-element_type="widget" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-toggle" role="tablist">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-4421" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-4421">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-arrow-alt-circle-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-arrow-alt-circle-down"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">O que vou receber?</a>
+					</div>
+					<div id="elementor-tab-content-4421" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-4421"><p><span style="text-decoration: underline;">Você vai receber na sua casa:</span></p><ul><li>Corretor postural Melhor Postura (São três opções de compra com 1, 2 ou 3 unidades)</li></ul><p><span style="text-decoration: underline;">Você vai receber no seu E-mail:</span></p><ul><li>Guia Definitivo da Postura Perfeita</li></ul><p><span style="text-decoration: underline;">E, fazendo sua inscrição hoje, você receberá como Bônus:</span></p><ul><li>9 Técnicas Infalíveis para Aliviar as Dores nas Costas</li><li>3 Exercícios Rápidos para Acabar com a Corcunda no Pescoço</li><li>Manias que Prejudicam sua Postura e Você Não Sabia</li></ul><p>O acesso aos Guias é feito através da área de Alunos exclusiva. Você poderá acessar pelo seu celular, tablet e notebook.</p><p>Mas, você precisa agir agora, restam poucas unidades, garanta o seu Melhor Postura com desconto, <strong><span style="color: #0000ff;"><a style="color: #0000ff;" href="#preco">aperte aqui</a></span></strong></p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-4422" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-4422">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-arrow-alt-circle-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-arrow-alt-circle-down"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Em quanto tempo vou ter resultado?</a>
+					</div>
+					<div id="elementor-tab-content-4422" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-4422"><p>Em 7 dias, seguindo á risca o Guia Definitivo da Postura Perfeita e usando o corretor por no mínimo 30 minutos por dia, você já começará a sentir a melhora na sua postura!</p><p>Porém, você precisa garantir agora o seu antes que acabem os estoques, <strong><span style="color: #0000ff;"><a style="color: #0000ff;" href="#preco">clique aqui</a></span></strong> e peça o seu Melhor Postura com desconto.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-4423" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-4423">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-arrow-alt-circle-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-arrow-alt-circle-down"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Por quanto tempo preciso usar o Melhor Postura?</a>
+					</div>
+					<div id="elementor-tab-content-4423" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-4423"><p>Recomendamos que você use de 2 á 4 horas por dia.</p><p>É fundamental que você siga o Guia Definitivo da Postura Perfeita para melhores resultados. Ele vai te ajudar a fortalecer a musculatura do peito, costas e ombros.</p><p>Não se deve usar para dormir ou usar durante o dia inteiro.</p><p>Garanta agora o seu antes que acabem os estoques, <strong><span style="color: #0000ff;"><a style="color: #0000ff;" href="#preco">clique aqui</a></span></strong> e peça o seu Melhor Postura com desconto.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-4424" class="elementor-tab-title" data-tab="4" role="tab" aria-controls="elementor-tab-content-4424">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-arrow-alt-circle-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-arrow-alt-circle-down"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Quais as formas de pagamento?</a>
+					</div>
+					<div id="elementor-tab-content-4424" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-4424"><p>Você pode pagar em até 12x no cartão de crédito ou por boleto bancário á vista.</p><p>Por cartão de crédito você garante o envio mais rápido, por boleto bancário é preciso esperar até 48 horas úteis para a compensação.</p><p>Mas, para aproveitar esse preço super especial, você precisa garantir o seu Melhor Postura o quanto antes, <strong><span style="color: #0000ff;"><a style="color: #0000ff;" href="#preco">clique aqui</a></span></strong></p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-4425" class="elementor-tab-title" data-tab="5" role="tab" aria-controls="elementor-tab-content-4425">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-arrow-alt-circle-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-arrow-alt-circle-down"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">O site é seguro?</a>
+					</div>
+					<div id="elementor-tab-content-4425" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-4425"><p>Este site é 100% protegido contra recursos de má intenção. Suas informações pessoais são sigilosas segundo a nossa Política de Privacidade e a entrega do seu acesso é garantida!</p><p>Pode adquirir o seu Melhor Postura com confiança e aproveitar o desconto, <span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="#preco">aperte aqui</a></strong></span></p></div>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6a801552 elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6a801552" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7f2a675f elementor-column elementor-col-100 elementor-top-column" data-id="7f2a675f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-774ec09d elementor-widget elementor-widget-heading" data-id="774ec09d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">tire suas dúvidas com uma atendente</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-16450dfb elementor-widget elementor-widget-text-editor" data-id="16450dfb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Atendimento de Seg à Sex 10h às 19h</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4d03986f elementor-widget elementor-widget-image" data-id="4d03986f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://api.whatsapp.com/send?phone=5521996884482&#038;text=Eu%20Quero%20Saber%20Mais%20Sobre%20o%20Melhor%20Postura" target="_blank">
+							<img width="580" height="175" src="https://corretapostura.com.br/wp-content/uploads/2020/08/atendimento-pf-1-1-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/atendimento-pf-1-1-1.png 643w, https://corretapostura.com.br/wp-content/uploads/2020/08/atendimento-pf-1-1-1-300x91.png 300w" sizes="(max-width: 580px) 100vw, 580px" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-62d7793c elementor-widget elementor-widget-heading" data-id="62d7793c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">formas de pagamento</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-331f0e01 elementor-widget elementor-widget-image" data-id="331f0e01" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="167" height="67" src="https://corretapostura.com.br/wp-content/uploads/2020/08/cartoes-1-1-1.png" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-51e6083 elementor-widget elementor-widget-heading" data-id="51e6083" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">compra protegida</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-423267c9 elementor-widget elementor-widget-image" data-id="423267c9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="286" height="47" src="https://corretapostura.com.br/wp-content/uploads/2020/08/site-blindado-1-1-1.png" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-b94c499 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="b94c499" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-13cea774 elementor-column elementor-col-33 elementor-top-column" data-id="13cea774" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-761f013 elementor-widget elementor-widget-heading" data-id="761f013" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">tire suas dúvidas com uma atendente</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ba6a5f4 elementor-widget elementor-widget-text-editor" data-id="ba6a5f4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Atendimento de Seg à Sex 10h às 19h</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3b20795d elementor-widget elementor-widget-image" data-id="3b20795d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://api.whatsapp.com/send?phone=5511934942487&#038;text=Eu%20Quero%20Saber%20Mais%20Sobre%20o%20Melhor%20Postura" target="_blank">
+							<img width="580" height="175" src="https://corretapostura.com.br/wp-content/uploads/2020/08/atendimento-pf-1-1-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://corretapostura.com.br/wp-content/uploads/2020/08/atendimento-pf-1-1-1.png 643w, https://corretapostura.com.br/wp-content/uploads/2020/08/atendimento-pf-1-1-1-300x91.png 300w" sizes="(max-width: 580px) 100vw, 580px" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-1f50da6f elementor-column elementor-col-33 elementor-top-column" data-id="1f50da6f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-688b549 elementor-widget elementor-widget-heading" data-id="688b549" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">formas de pagamento</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-571eb133 elementor-widget elementor-widget-image" data-id="571eb133" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="167" height="67" src="https://corretapostura.com.br/wp-content/uploads/2020/08/cartoes-1-1-1.png" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-1e000a04 elementor-column elementor-col-33 elementor-top-column" data-id="1e000a04" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3eff81e elementor-widget elementor-widget-heading" data-id="3eff81e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">compra protegida</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2b9b7eb8 elementor-widget elementor-widget-image" data-id="2b9b7eb8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="286" height="47" src="https://corretapostura.com.br/wp-content/uploads/2020/08/site-blindado-1-1-1.png" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-3d617143 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3d617143" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-44a4277d elementor-column elementor-col-100 elementor-top-column" data-id="44a4277d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-15d66658 elementor-widget elementor-widget-text-editor" data-id="15d66658" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><a style="color: #333333;" href="/">Início</a> | <a style="color: #333333;" href="https://posturaemdia.com/politica-de-privacidade/" target="_blank" rel="noopener">Políticas de Privacidade</a> | <a style="color: #333333;" href="https://posturaemdia.com/termos-de-uso/" target="_blank" rel="noopener">Termos de Uso</a> | <a style="color: #333333;" href="https://posturaemdia.com/mapa-do-site/" target="_blank" rel="noopener">Mapa do Site</a></p><p>Melhor Postura © Todos os Direitos Reservados 2020</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3909f9ba elementor-widget elementor-widget-text-editor" data-id="3909f9ba" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong>AVISOS LEGAIS</strong></p><p>É expressamente proibida a cópia ou reprodução de todas as imagens e textos desse site, ficando os infratores sujeitos as penalidades cabíveis.</p><p>Venda proibida para menores de 18 anos. Os resultados podem variar de pessoa para pessoa. As informações contidas neste site ou nos e-mails enviados foram elaboradas apenas para propósitos educacionais. Não existe intenção de substituir conselhos ou tratamentos médicos. Estas informações não devem ser utilizadas para diagnosticar ou tratar qualquer problema de saúde ou doença sem uma consulta médica.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4c37c62a elementor-widget elementor-widget-html" data-id="4c37c62a" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script>
+    var $ = jQuery.noConflict();
+    
+    var checkout = {
+     kitUm: 'https://go.perfectpay.com.br/PPU38CK606A',
+     kitDois: 'https://go.perfectpay.com.br/PPU38CK606B',
+     kitTres: 'https://go.perfectpay.com.br/PPU38CK606C'
+    }
+ 
+    $(function(){
+        var url_string = window.location.href;
+        var urlparams = new URL(url_string);
+        var src = urlparams.searchParams.get("src");
+        
+        var kit1 = checkout.kitUm + '?split=12&src=' + src;
+        var kit2 = checkout.kitDois + '?split=12&src=' + src;
+        var kit3 = checkout.kitTres + '?split=12&src=' + src;
+    
+        $(".kitUm").attr('href', kit1).attr('target', '_blank');
+        $(".kitDois").attr('href', kit2).attr('target', '_blank');
+        $(".kitTres").attr('href', kit3).attr('target', '_blank');
+        
+    });
+</script>
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script>
+    var galleryThumbs = new Swiper('.gallery-thumbs', {
+        autoplay: {
+            delay: 5000,
+          },
+      spaceBetween: 10,
+      slidesPerView: 4,
+      loop: true,
+      freeMode: true,
+      loopedSlides: 5, //looped slides should be the same
+      watchSlidesVisibility: true,
+      watchSlidesProgress: true,
+    });
+    var galleryTop = new Swiper('.gallery-top', {
+        autoplay: {
+            delay: 5000,
+          },
+      spaceBetween: 10,
+      loop: true,
+      loopedSlides: 5, //looped slides should be the same
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+      thumbs: {
+        swiper: galleryThumbs,
+      },
+    });
+  </script>
+  <script>
+    $(window).on('resize scroll', function() {
+        var el = $('#segundo-bloco');
+        var elementTop = $(el).offset().top;
+        var viewportTop = $(window).scrollTop();
+        var viewportBottom = viewportTop + $(window).height() - 150;
+        if(viewportBottom > elementTop){
+            $("#perseguidor").css("display", "block");
+        }else{
+            $("#perseguidor").css("display", "none");
+        }
+    });
+  </script>
+<style>
+#perseguidor{
+    display: none;
+}
+.gallery-thumbs {
+      height: 20%;
+      box-sizing: border-box;
+      padding: 10px 0;
+    }
+
+    .gallery-thumbs .swiper-slide {
+      height: 100%;
+      opacity: 0.4;
+    }
+
+    .gallery-thumbs .swiper-slide-thumb-active {
+      opacity: 1;
+    }
+    .swiper-button-next.swiper-button-white, .swiper-container-rtl .swiper-button-prev.swiper-button-white {
+    background-image: none !important;
+}
+.swiper-button-next:after, .swiper-button-prev:after{
+    color: #999 !important;
+}
+    @media screen and (min-width: 1023px){
+        .wp-image-163{
+            width: 35% !important;
+        }
+    }
+</style>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+<iframe width=1 height=0 src="https://go.perfectpay.com.br/PPU38CK6102"></iframe>
+<script src='https://corretapostura.com.br/wp-content/plugins/hurrytimer/assets/js/cookie.min.js?ver=2.2.0' id='hurryt-cookie-js'></script>
+<script src='https://corretapostura.com.br/wp-content/plugins/hurrytimer/assets/js/jquery.countdown.min.js?ver=2.2.0' id='hurryt-countdown-js'></script>
+<script id='hurrytimer-js-extra'>
+var hurrytimer_ajax_object = {"tz":"America\/Sao_Paulo","ajax_url":"https:\/\/corretapostura.com.br\/wp-admin\/admin-ajax.php","ajax_nonce":"6813611dcf","disable_actions":"","sticky_bar_hide_timeout":"7","actionsOptions":{"none":1,"hide":2,"redirect":3,"stockStatus":4,"hideAddToCartButton":5,"displayMessage":6},"restartOptions":{"none":1,"immediately":2,"afterReload":3},"redirect_no_back":"1"};
+</script>
+<script src='https://corretapostura.com.br/wp-content/plugins/hurrytimer/assets/js/hurrytimer.js?ver=2.2.27' id='hurrytimer-js'></script>
+<script src='https://corretapostura.com.br/wp-includes/js/wp-embed.min.js?ver=5.5' id='wp-embed-js'></script>
+<script src='https://corretapostura.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.14' id='elementor-frontend-modules-js'></script>
+<script src='https://corretapostura.com.br/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script src='https://corretapostura.com.br/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6' id='elementor-dialog-js'></script>
+<script src='https://corretapostura.com.br/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://corretapostura.com.br/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script src='https://corretapostura.com.br/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.14' id='share-link-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","downloadImage":"Baixar imagem"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.14","urls":{"assets":"https:\/\/corretapostura.com.br\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":55,"title":"Corretor%20Postural","excerpt":"","featuredImage":false}};
+</script>
+<script src='https://corretapostura.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.14' id='elementor-frontend-js'></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+		</body>
+</html>
